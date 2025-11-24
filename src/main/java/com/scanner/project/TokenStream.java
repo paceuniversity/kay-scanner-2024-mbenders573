@@ -1,6 +1,8 @@
 package com.scanner.project;
 // TokenStream.java
 
+// By: Mark Benders and Aaron Marsch
+
 // Implementation of the Scanner for JAY
 
 // This code DOES NOT implement a scanner for JAY yet. You have to complete
